@@ -1,2 +1,2 @@
-# Beth-Demo1
+# Beth-CI/CD Demo
 Main Demo Repo
